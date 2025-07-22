@@ -31,6 +31,7 @@ jobs:
             cd bankchurn-api 
             railway up --service=mi_primer_proyecto
             railway up --detach
+            #nuevo
 
 
 tags_only: &tags_only
